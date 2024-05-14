@@ -26,7 +26,6 @@ body{
 }
 .container{
     position: absolute;
-    bottom: 10vh;
     top: 10vh;
     right: 20vw;
     left: 20vw;
